@@ -1,4 +1,5 @@
-## PHP Client for "Schwab Trader API - Individual" https://developer.schwab.com/products/trader-api--individual
+## PHP Client for "Schwab Trader API - Individual" 
+* https://developer.schwab.com/products/trader-api--individual
 
 Files that get generated you can check for debugging: 
 * API requests and responses: "transactions.html"
