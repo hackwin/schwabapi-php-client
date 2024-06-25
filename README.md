@@ -7,7 +7,7 @@ Files you must create (from your Schwab App settings page):
 {
 	"client_id":"32 char", 
 	"client_secret":"16 char",
-	"redirect_uri":"https://yourdomain.ext/folder/"
+	"redirect_uri":"https://domain.ext/folder/"
 }
 ```
 
