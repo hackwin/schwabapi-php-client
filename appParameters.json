@@ -1,0 +1,5 @@
+{
+	"client_id":"32 char", 
+	"client_secret":"16 char",
+	"redirect_uri":"https://yourdomain.ext/folder/"
+}
