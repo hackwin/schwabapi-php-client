@@ -1,9 +1,20 @@
 ## PHP Client for "Schwab Trader API - Individual" 
 * https://developer.schwab.com/products/trader-api--individual
 
+Files you must create (from your Schwab App settings page):
+* "appParameters.json"
+```
+{
+	"client_id":"32 char", 
+	"client_secret":"16 char",
+	"redirect_uri":"https://yourdomain.ext/folder/"
+}
+```
+
 Files that get generated you can check for debugging: 
-* API requests and responses: "transactions.html"
+* API requests and responses: "transactions-log.html"
 * Access Tokens: "accessTokens.json"
+* Account Number: "accountNumbers.json"
   
 For support: traderapi@schwab.com
 
