@@ -2,6 +2,7 @@
 * https://developer.schwab.com/products/trader-api--individual
 
 Files you must create (from your Schwab App settings page):
+* Private folder
 * "appParameters.json"
 ```
 {
